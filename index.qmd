@@ -13,35 +13,37 @@ about:
     - icon: envelope
       text: Email
       href: mailto:databampi@gmail.com
+    - icon: journal
+      text: ORCID 0000-0002-1410-7461
+      href: https://orcid.org/0000-0002-1410-7461
+    - icon: journal
+      text: Curriculo Lattes
+      href: http://lattes.cnpq.br/2528205355041219
 ---
 
 ## Bio
 
-I am a PhD student from Brazil, since 2023, I have been working with diagnostic tools for tuberculosis detection within Brazilian prison units, overseeing data management and practicing as a medical doctor in the care of people deprived of liberty. Other then current academic work, I have experience in clinical research practice and care to Indigenous populations, riverside communities in the Pantanal region, as well as outpatient and hospital care as an infectious disease specialist.
+Hello! I am a PhD student from Brazil and since 2023 I have been working with diagnostic tools for tuberculosis detection within Brazilian prison units, overseeing data management and practicing as a medical doctor in the care of people deprived of liberty. Other then current academic work, I have experience in clinical research practice and care to Indigenous populations, riverside communities in the Pantanal region, as well as outpatient and hospital care as an infectious disease specialist.
 
 In my spare time I love to take care of my pet rats, plants and watch horror movies.
-
-
 
 ## Education
 
 Federal University of Mato Grosso do Sul - UFMS \| Campo Grande - MS, Brazil
 
-PhD Infectious and Parasitic Diseases \| 2023 - Ongoing
+PhD Infectious and Parasitic Diseases \| 2023 - Ongoing\
 
 Hospital das Clínicas, Faculty of Medicine, University of São Paulo, Brazil (HC-FMUSP) \| São Paulo - SP, Brazil
 
-Medical Residency in Infectious Diseases \| 2020 - 2023
+Medical Residency in Infectious Diseases \| 2020 - 2023\
 
 Federal University of Grande Dourados - UFGD \| Dourados - MS, Brazil
 
-Medicine degree \| 2013 - 2018
-
-
+Medicine degree \| 2013 - 2018\
+\
 
 ## Experience
 
-Hospital São Julião, Campo Grande - Brazil | Infectious Diseases specialist | 2025 - Ongoing
+Hospital São Julião, Campo Grande - Brazil \| Infectious Diseases specialist \| 2025 - Ongoing
 
-Centro de Doenças Infecciosas e Parasitárias, Campo Grande - Brazil | Infectious Diseases specialist | 2024 - 2024
-
+Centro de Doenças Infecciosas e Parasitárias, Campo Grande - Brazil \| Infectious Diseases specialist \| 2024 - 2024
