@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "jose-bampi.github.io"
+  title: "José Bampi"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - education.qmd
+      - publications.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: journal
     css: styles.css
     toc: true
 
