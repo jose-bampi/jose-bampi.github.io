@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-## Oral presentations 
+## Oral presentations
 
 -   59º Congress of the Brazilian Society of Tropical Medicine (2024) . **Refining active case finding: a cost saving algorithm using automated chest X-ray analysis and sputum pooling.**
 
