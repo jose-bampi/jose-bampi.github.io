@@ -22,4 +22,6 @@ title: "Publications"
 
 ## Book chapters
 
-1.  **JOSE VICTOR BORTOLOTTO BAMPI**; FIGUEIRA, C. M. ; BENTO, D. D. ; ALMEIDA, L. G. . HIV. In: Ian Ward A. Maia; Vitor Machado Benincá; Daniel Ujakow Correa Schubert; Victor Paro da Cunha; Maria Camila Lunardi; Hélio Penna Guimarães. (Org.). Tratado de Medicina de Emergência - ABRAMEDE. 1ªed.: Manole, 2024, v. 1, p. 1254-1267. ISBN: 9788520458174
+1.  **JOSE VICTOR BORTOLOTTO BAMPI**; FIGUEIRA, C. M.; BENTO, D. D.; ALMEIDA, L. G.. **HIV In: Tratado de Medicina de Emergência - ABRAMEDE**, ed.1ª. : Manole, 2024, v.1, p. 1254 - 1267. ISBN: 9788520458174
+
+2.  LEITE, O. H. M.; COSTA, A. F.; MOREIRA, A. S.; **BAMPI, J.V.B.**. **Drogas antimicobactérias não rifamicinas In: Manual de antimicrobianos: departamento de infectologia e medicina tropical da faculdade de medicina da USP,** ed.1ª. Barueri: Manole, 2025, v.1, p. 245 - 273. ISBN: 9788520458945
